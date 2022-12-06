@@ -1,4 +1,6 @@
-# drone_navigation
+# Autonomous Drone development for GPS-less Inspection
+
+## Detailed Info.
 
 Detailed information to test the scripts and results.
 
