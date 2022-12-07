@@ -22,9 +22,9 @@ Make drones autonomous and work without GPS in all environments. Features employ
 
 -   **Software setup**: ROS and non-ROS, Realsense SDK (on companion computer) + ArduPilot firmware.
 
--   **Parameter configuration: On companion computer and ArduPilot to send and receive VISION_POSE_ESTIMATE messages and camera pose transformation.
+-   **Parameter configuration**: On companion computer and ArduPilot to send and receive VISION_POSE_ESTIMATE messages and camera pose transformation.
 
--   **Ground testing: How to monitor and plot data messages on GCS to ensure that everything is running according to plan.
+-   **Ground testing**: How to monitor and plot data messages on GCS to ensure that everything is running according to plan.
 
 -   **Flight test**: Explore the operational envelope in different modes (Loiter, Guided, Auto ) and environment
 
