@@ -12,8 +12,28 @@ Intelligent imagery using drones is radically improving the inspection capabilit
 
 Make drones autonomous and work without GPS in all environments. Features employed to bring autonomy are - **Simultaneous Localization and Mapping (SLAM), visualizer with the kinematic model**(drone), **UI to send goals**(drone), **patrolling**(waypoint traversal), and **inspection**(region of interest).
 
-Applications - Inspection of buildings, construction sites, warehouses, solar plants, transmission lines, tunnels and mines, disaster sites and bridges.
+#### Applications: Inspection of buildings, construction sites, warehouses, solar plants, transmission lines, tunnels and mines, disaster sites and bridges.
 
 ----
 
-## 3. 
+## 3. Hardware + Software setup for drone
+
+-   **Hardware setup**: Quadcopter platform with ArduPilot + VIO tracking camera (Intel Realsense T265) + companion computer.
+
+-   **Software setup**: ROS and non-ROS, Realsense SDK (on companion computer) + ArduPilot firmware.
+
+-   **Parameter configuration: On companion computer and ArduPilot to send and receive VISION_POSE_ESTIMATE messages and camera pose transformation.
+
+-   **Ground testing: How to monitor and plot data messages on GCS to ensure that everything is running according to plan.
+
+-   **Flight test**: Explore the operational envelope in different modes (Loiter, Guided, Auto ) and environment
+
+-   **Troubleshooting guide**: Detail about solving the software and hardware setup issues.
+
+----
+
+## 4. Autonomous Navigation
+
+----
+
+## 5. Experiments and Flight test results
