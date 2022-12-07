@@ -9,3 +9,5 @@ Intelligent imagery using drones is radically improving the inspection capabilit
 ----
 
 ## 2. Objective
+
+Make drones autonomous and work without GPS in all environments. Features employed to bring autonomy are - **Simultaneous Localization and Mapping (SLAM), visualizer with the kinematic model**(drone), **UI to send goals**(drone), **patrolling**(waypoint traversal), and **inspection**(region of interest).
