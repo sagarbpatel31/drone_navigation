@@ -34,6 +34,10 @@ Make drones autonomous and work without GPS in all environments. Features employ
 
 ## 4. Autonomous Navigation
 
+To work autonomously and GPS-less, we used MAVROS packages - vision_to_mavros, realsense ROS (for Camera) and mavros transformations are used and detailed information is mentioned in simulation, vision_to_mavros and realsense repository.
+
 ----
 
 ## 5. Experiments and Flight test results
+
+To run the simulation scripts autonomously, simulation repository has details about the experiments.
