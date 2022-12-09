@@ -20,6 +20,18 @@ Make drones autonomous and work without GPS in all environments. Features employ
 
 -   **Hardware setup**: Quadcopter platform with ArduPilot + VIO tracking camera (Intel Realsense T265) + companion computer.
 
+    1. Drone Frame - Tarrot 650
+    2. Flight controller - mRo x2.1
+    3. Companion Computer - Jetson Nano
+    4. Stereo Camera - Intel RealSense T265
+    5. LIDAR - RP Lidar A1
+    6. GPS Module - mRo u-Blox Neo-M9N
+    7. RF Receiver & Transmitter
+    8. ESCs, Motors and Propellers
+    9. 6 cell LiPo Battery (22.4V)
+    
+    
+
 -   **Software setup**: ROS and non-ROS, Realsense SDK (on companion computer) + ArduPilot firmware.
 
 -   **Parameter configuration**: On companion computer and ArduPilot to send and receive VISION_POSE_ESTIMATE messages and camera pose transformation.
