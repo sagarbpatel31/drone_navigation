@@ -30,7 +30,10 @@ Make drones autonomous and work without GPS in all environments. Features employ
     8. ESCs, Motors and Propellers
     9. 6 cell LiPo Battery (22.4V)
     
-    
+    ![Tarot Frame](https://github.com/sagarbpatel31/drone_navigation/blob/main/simulation/Images/drone_frame.jpg)
+    ![Drone](https://github.com/sagarbpatel31/drone_navigation/blob/main/simulation/Images/drone.jpg)
+    ![Drone Test](https://github.com/sagarbpatel31/drone_navigation/blob/main/simulation/Images/flying_drone.jpg)
+   
 
 -   **Software setup**: ROS and non-ROS, Realsense SDK (on companion computer) + ArduPilot firmware.
 
